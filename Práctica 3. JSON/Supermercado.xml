@@ -1,0 +1,55 @@
+<supermercado>
+    <Mercadona>
+        <direccion>San Vicente dePaúl, 42, 44</direccion>
+        <geolocalizacion>
+            <latitud>41.6525</latitud>
+            <longitud>-0.87534</longitud>
+        </geolocalizacion>
+        <horario>Lun-Sáb 9:00am-21:30pm, Domingo-cerrado</horario>
+        <productos>
+            <nombre>Acelga</nombre>
+            <seccion>Verduras y hortalizas</seccion>
+            <precio>1.99</precio>
+            <oferta>false</oferta>
+            <habitual>true</habitual>
+            <vigencia>3-5 días en el refrigerador</vigencia>
+            <perecedero>true</perecedero>
+            <cantidad>1</cantidad>
+            <unidad>Kg</unidad>
+            <adquirido>true</adquirido>
+
+            <nombre>Queso fresco</nombre>
+            <seccion>Charcuteria y quesos</seccion>
+            <precio>2.19</precio>
+            <oferta>false</oferta>
+            <habitual>true</habitual>
+            <vigencia>3-7 días en el refrigerador</vigencia>
+            <perecedero>true</perecedero>
+            <cantidad>1</cantidad>
+            <unidad>Kg</unidad>
+            <adquirido>true</adquirido>
+
+
+            <nombre>Yogur</nombre>
+            <codigo_de_barras>2468101214</codigo_de_barras>
+            <seccion>lacteos</seccion>
+            <precio>1.50</precio>
+            <oferta>true</oferta>
+            <habitual>false</habitual>
+            <vigencia>20/04/23</vigencia>
+            <perecedero>true</perecedero>
+            <cantidad>6</cantidad>
+            <unidad>unidades</unidad>
+            <adquirido>true</adquirido>
+
+
+
+
+
+
+
+
+        </productos>
+    </Mercadona>
+</supermercado>
+

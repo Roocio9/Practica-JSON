@@ -1,0 +1,137 @@
+{
+    "supermercados": [
+      {
+        "nombre de supermercado": "Lidl",
+        "direccion": "Av. de Francia, 10",
+        "geolocalizacion": {
+          "latitud": 41.66206,
+          "longitud": -0.90612
+        },
+        "lista_de_compra": [
+          {
+            "nombre": "Manzanas",
+            "seccion": "frutas",
+            "precio": 1.10,
+            "oferta": true,
+            "habitual": false,
+            "vigencia": "15-04-2023",
+            "perecedero": true,
+            "cantidad": 2,
+            "unidad": "kg",
+            "adquirido": true
+          },
+          {
+            "nombre": "Leche de almendras",
+            "seccion": "lacteos",
+            "precio": 1.10,
+            "oferta": false,
+            "habitual": false,
+            "vigencia": "1-05-2023",
+            "perecedero":false,
+            "cantidad": 2.10,
+            "unidad": "litro",
+            "adquirido": false
+          }
+        ]
+      },
+      {
+        "nombre de supermercado": "Mercadona",
+        "direccion": "C. de San Vicente de Paúl, 42, 44",
+        "geolocalizacion":  {
+          "latitud": 41.6525,
+          "longitud": -0.87534
+        },
+        "lista_de_compra": [
+          {
+            "nombre": "Acelga",
+            "seccion": "Verduras y hortalizas",
+            "precio": 1.99,
+            "oferta": false,
+            "habitual": true,
+            "vigencia": "3-5 días en el refrigerador",
+            "perecedero":true,
+            "cantidad": 1,
+            "unidad": "kg",
+            "adquirido": true
+          },
+          {
+            "nombre": "Queso fresco",
+            "seccion": "Charcuteria y quesos",
+            "precio": 2.19,
+            "oferta": false,
+            "habitual": true,
+            "vigencia": "3-7 días en el refrigerador",
+            "perecedero":true,
+            "cantidad": 1,
+            "unidad": "kg",
+            "adquirido": true
+          },
+          {
+
+          "nombre":"yogur",
+          "codigo_de_barras":"2468101214",
+          "seccion":"lacteos",
+          "precio":1.50,
+          "oferta":true,
+          "habitual":false,
+          "vigencia":"20/04/23",
+          "perecedero":true,
+          "cantidad":6,
+          "unidad":"unidades",
+          "adquirido":"true"
+          }
+        ]
+      },
+      {
+        "nombre de supermercado": "Carrefour",
+        "direccion": "Calle Isaac Newton, 13",
+        "geolocalizacion":  {
+          "latitud": 40.52734,
+          "longitud": -3.62603
+        },
+        "lista_de_compra": [
+          {
+            "nombre": "Arroz Basmati",
+            "seccion": "Arroz y legumbres",
+            "precio": 0.80,
+            "oferta": true,
+            "habitual": true,
+            "vigencia": "01-01-2024",
+            "perecedero":false,
+            "cantidad": 1,
+            "unidad": "kg",
+            "adquirido": true
+        },
+        {
+          "nombre": "Pollo entero",
+          "seccion": "Carniceria",
+          "precio": 3.60,
+          "oferta": true,
+          "habitual": false,
+          "vigencia": "19-04-2023",
+          "perecedero":true,
+          "cantidad": 1,
+          "unidad": "kg",
+          "adquirido": false
+        
+        }
+        ]
+        }
+      ]
+    }   
+      
+
+    
+
+  
+  
+
+
+
+    
+    
+
+
+
+
+    
